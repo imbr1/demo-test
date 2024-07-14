@@ -1,2 +1,6 @@
-# demo-test
-this is my first project
+#include<iostream>
+using namespace std;
+
+int main{
+   cout<< "Yjis is my firdt ";
+}
